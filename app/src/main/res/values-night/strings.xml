@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NUM">Number</string>
+    <string name="plus">+1</string>
+    <string name="minus">-1</string>
+</resources>
